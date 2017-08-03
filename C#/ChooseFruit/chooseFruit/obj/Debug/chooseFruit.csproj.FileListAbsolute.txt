@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\bin\Debug\chooseFruit.exe.config
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\obj\Debug\chooseFruit.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\bin\Debug\chooseFruit.exe
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\bin\Debug\chooseFruit.pdb
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\obj\Debug\chooseFruit.exe
+C:\Users\student\Desktop\Rob\Week 3 - C#\chooseFruit\chooseFruit\obj\Debug\chooseFruit.pdb

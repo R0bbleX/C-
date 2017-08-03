@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe.config
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.pdb
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.exe
+C:\Users\student\Desktop\Rob\C#\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\bin\Debug\classObjectsFields.exe.config
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\bin\Debug\classObjectsFields.exe
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\bin\Debug\classObjectsFields.pdb
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\obj\Debug\classObjectsFields.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\obj\Debug\classObjectsFields.exe
+C:\Users\student\Desktop\Rob\C#\classObjectsFields\classObjectsFields\obj\Debug\classObjectsFields.pdb
